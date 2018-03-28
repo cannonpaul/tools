@@ -6,6 +6,7 @@
 *.lo
 *.o
 *.obj
+*.iobj
 
 # Precompiled Headers
 *.gch
@@ -30,3 +31,24 @@
 *.exe
 *.out
 *.app
+
+# VC++ Project Files
+*.sln
+*.vcxproj
+*.filters
+*.suo
+
+# Data Base Files
+*.db
+*.opendb
+*.pdb
+*.ipdb
+*.idb 
+
+# Incremental Linker
+*.ilk
+
+# Log Files
+*.log
+*.tlog
+*.lastbuildstate
